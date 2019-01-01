@@ -1,6 +1,5 @@
-===========================================================================
-Tabu Search Based Metaheuristic Local Search Algorithm for the PASU problem
-===========================================================================
+
+## Tabu Search Based Metaheuristic Local Search Algorithm for the PASU problem
 
 Patient Allocation Scheduling with Uncertainty (PASU) problem is a NP-Complete combinatorial optimization problem. It is a dynamic version of the Patient Admission Scheduling(PAS) problem.
 
